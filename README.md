@@ -13,7 +13,7 @@ A super concise theme for Hugo
 ## Installation
 
 ```bash
-$ git clone https://github.com/olOwOlo/hugo-theme-even themes/even
+$ git clone https://github.com/vincent1988/hugo-theme-even.git themes/even
 ```
 
 **Important:** Take a look inside the [`exampleSite`](https://github.com/olOwOlo/hugo-theme-even/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](https://github.com/olOwOlo/hugo-theme-even/blob/master/exampleSite/config.toml). **To use it, copy the [`config.toml`](https://github.com/olOwOlo/hugo-theme-even/blob/master/exampleSite/config.toml) in the root folder of your Hugo site.** Feel free to change it.
